@@ -1,6 +1,6 @@
 # DC network topology lab
 
-![Topology overview](./images/topology-overview.png)
+![Topology overview](DC-Network-Topology-Lab/blob/main/Images/topology-overview.png)
 
 A data center network topology built in Cisco Packet Tracer, reusing the
 App/DB server roles from the

@@ -127,7 +127,7 @@ Fa0/2            Desg FWD 19        128.2    P2p
 **Cross-VLAN routing confirmed with a live ping test** (App server →
 DB server, crossing from VLAN 10 to VLAN 20 through the router):
 
-![Cross-VLAN ping test](./images/cross-vlan-ping-test.png)
+![Cross-VLAN ping test](./Images/cross-vlan-ping-test.png)
 
 The first packet timing out is expected, normal ARP behavior — the
 router has to resolve the destination's hardware address before the
